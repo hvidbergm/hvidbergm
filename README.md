@@ -5,13 +5,13 @@
 
 - 💻 I’m working at **Urban Partners as a Student Data Scientist**
 
-- 🤿 I’m currently working on a **Cliff Diving project (see my repo)**
+- 🤿 I’m currently working on a **Cliff Diving project (see my <a href="https://github.com/hvidbergm/cliff_diving">repo</a>)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hvidbergm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hvidbergm" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <h4>Programming Languages</h4>
