@@ -4,10 +4,10 @@
     <b>Welcome to my page! 🙌</b><br><br>
     <i>
         I'm Mads 🧑‍💻<br>
-        MSc Student in Business Administration & Data Science 🎓<br>
-        Currently Working as a Student Data Scientist at Urban Partners 🌱<br>
+        MSc student in Business Administration & Data Science at Copenhagen Business School🎓<br>
+        Currently working as a Student Data Scientist at Urban Partners 🌱<br>
     </i><br>
-    <i>Feel Free to Connect With Me on LinkedIn!</i>
+    <i>Feel free to connect with me on LinkedIn!</i>
     <br>
     <a href="https://www.linkedin.com/in/hvidbergm">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
