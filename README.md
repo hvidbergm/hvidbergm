@@ -7,6 +7,7 @@
         MSc Student in Business Administration & Data Science 🎓<br>
         Currently Working as a Student Data Scientist at Urban Partners 🌱<br>
     </i><br>
+    Feel Free to Connect With Me on LinkedIn! <br><br>
     <a href="https://www.linkedin.com/in/hvidbergm">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
