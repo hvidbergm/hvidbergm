@@ -1,7 +1,7 @@
-<h1 align="center">Hi, folks! 🙌</h1>
+<h1 align="center">Hi, folks!</h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <b>Welcome to my page! 🙌</b><br><br>
     <i>
         I'm Mads 🧑‍💻<br>
         MSc Student in Business Administration & Data Science 🎓<br>
@@ -38,7 +38,6 @@
 ### BI
 [![PowerBI](https://img.shields.io/badge/powerbi-black?style=for-the-badge&logo=powerbi)](https://github.com/hvidbergm)
 [![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=Tableau)](https://github.com/hvidbergm)
-[![Alteryx](https://img.shields.io/badge/Alteryx-black?style=for-the-badge&logo=Alteryx)](https://github.com/hvidbergm)
 
 ### Design
 [![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)](https://github.com/hvidbergm)
