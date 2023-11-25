@@ -5,7 +5,7 @@
     <i>
         I'm Mads 🧑‍💻<br>
         MSc student in Business Administration & Data Science at Copenhagen Business School🎓<br>
-        Currently working as a Student Data Scientist at Urban Partners 🌱<br>
+        Currently working as a Student Data Scientist at Urban Partners (Real Estate Private Equity) 🌱<br>
     </i><br>
     <i>Feel free to connect with me on LinkedIn!</i>
     <br>
