@@ -1,11 +1,11 @@
 <h1 align="center">Hi, folks!</h1>
 
 <p align="center">
-    <b>Welcome to my page! 🙌</b><br><br>
-    <i>
+    <b>Welcome to my page! 🙌</b><br>
+    <br><i>
         I'm Mads 🧑‍💻<br>
-        MSc student in Business Administration & Data Science at Copenhagen Business School🎓<br>
-        Currently working as a Student Data Scientist at Urban Partners (Real Estate Private Equity) 🌱<br>
+        MSc student in Data Science at Copenhagen Business School🎓<br>
+        Currently working as a Student Data Scientist at Urban Partners (Private Equity Real Estate) 🌱<br>
     </i><br>
     <i>Feel free to connect with me on LinkedIn!</i>
     <br>
@@ -16,7 +16,7 @@
 
 </p>
 
-### Languages
+### Programming
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/hvidbergm)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/hvidbergm)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/hvidbergm)
