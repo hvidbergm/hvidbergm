@@ -1,12 +1,11 @@
-<h1 align="center">Hi, folks!</h1>
+<h1 align="center">Hi, folks! 👋</h1>
 
 <p align="center">
-    <b>Welcome to my page! 🙌</b><br>
-    <br><i>
-        I'm Mads 🧑‍💻<br>
-        MSc student in Data Science at Copenhagen Business School🎓<br>
+    <b>I'm Mads! 👱‍♂️</b><br>
+        <i>My passion lies in building great solutions/products and turning data into action 💻</i><br>
+        MSc student in Data Science at Copenhagen Business School 🎓<br>
         Currently working as a Student Data Scientist at Urban Partners (Private Equity Real Estate) 🌱<br>
-    </i><br>
+    <br>
     <i>Feel free to connect with me on LinkedIn!</i>
     <br>
     <a href="https://www.linkedin.com/in/hvidbergm">
@@ -41,12 +40,12 @@
 [![PowerBI](https://img.shields.io/badge/powerbi-black?style=for-the-badge&logo=powerbi)](https://github.com/hvidbergm)
 [![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=Tableau)](https://github.com/hvidbergm)
 
+### Cloud
+[![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure)](https://github.com/hvidbergm)
+
 ### Design
 [![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)](https://github.com/hvidbergm)
 [![Adobe XD](https://img.shields.io/badge/adobexd-black?style=for-the-badge&logo=adobexd)](https://github.com/hvidbergm)
-
-### Cloud
-[![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure)](https://github.com/hvidbergm)
 
 <details>
 <p align="center">
