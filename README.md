@@ -1,20 +1,21 @@
-<h1 align="center">Hi, folks! 👋</h1>
+<h1>Hi, folks! 👋</h1>
 
-<p align="center">
+<p>
     <b>I'm Mads! 👱‍♂️</b><br>        
     <i>My passion lies in building great solutions/products and turning data into action 💻</i><br><br>
-    <b>Some facts about me:</b><br>
-        MSc student in Data Science at Copenhagen Business School 🎓<br>
-        Currently working as a Student Data Scientist at Urban Partners (Private Equity Real Estate) 🌱<br>
-    <br>
-    <i>Feel free to connect with me on LinkedIn!</i>
-    <br>
-    <a href="https://www.linkedin.com/in/hvidbergm">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-
-
 </p>
+
+<b>Some facts about me:</b><br>
+    MSc student in Data Science at Copenhagen Business School 🎓<br>
+    Currently working as a Student Data Scientist at Urban Partners (Private Equity Real Estate) 🌱<br>
+<br>
+<i>Feel free to connect with me on LinkedIn!</i>
+<br>
+<a href="https://www.linkedin.com/in/hvidbergm">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a>
+
+
 
 ### Programming
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/hvidbergm)
