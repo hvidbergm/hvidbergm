@@ -2,12 +2,12 @@
 
 <p>
     <b>I'm Mads! 👱‍♂️</b><br>        
-    <i>My passion lies in building great solutions/products and turning data into action 💻</i><br><br>
+    <i>I'm a data nerd enthusiastic about building products that users love! 💻</i><br><br>
 </p>
 
 <b>Some facts about me:</b><br>
-    MSc student in Data Science at Copenhagen Business School 🎓<br>
-    Currently working as a Student Data Scientist at Urban Partners (Private Equity Real Estate) 🌱<br>
+    MSc in Data Science at Copenhagen Business School 🎓<br>
+    Currently working at Totalkredit with development, analysis and automation 🏠<br>
 <br>
 <i>Feel free to connect with me on LinkedIn!</i>
 <br>
