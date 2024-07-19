@@ -26,6 +26,7 @@
 ### Machine Learning & Deep Learning
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/hvidbergm)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/hvidbergm)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=flat)](https://github.com/hvidbergm)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/hvidbergm)
 [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/hvidbergm)
 [![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=OpenCV)](https://github.com/hvidbergm)
@@ -43,7 +44,8 @@
 [![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=Tableau)](https://github.com/hvidbergm)
 
 ### Cloud
-[![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure)](https://github.com/hvidbergm)
+[![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/hvidbergm)
+[![Databrikcs](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](https://github.com/hvidbergm)
 
 ### Design
 [![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)](https://github.com/hvidbergm)
