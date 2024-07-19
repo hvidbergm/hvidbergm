@@ -2,18 +2,19 @@
 
 <p>
     <b>I'm Mads! 👱‍♂️</b><br>        
-    <i>I'm a data nerd enthusiastic about building products that users love! 💻</i><br><br>
+    > I'm a data nerd enthusiatic about product management 💻<br>
+    > I'm driven by building great products - not by the use of tool or methodology!<br><br>
 </p>
 
 <b>Some facts about me:</b><br>
-    MSc in Data Science at Copenhagen Business School 🎓<br>
-    Currently working at Totalkredit with development, analysis and automation 🏠<br>
-<br>
-<i>Feel free to connect with me on LinkedIn!</i>
+    > MSc in Data Science at Copenhagen Business School 🎓<br>
+    > Currently working at Totalkredit with development, analysis and automation 🏠<br>
 <br>
 <a href="https://www.linkedin.com/in/hvidbergm">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
+<i><-- Feel free to connect with me!</i> 
+<br>
 
 
 
@@ -22,11 +23,13 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/hvidbergm)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/hvidbergm)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/hvidbergm)
+[![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)](https://github.com/hvidbergm)
+[![SAS](https://img.shields.io/badge/sas-black?style=for-the-badge&logo=sas)](https://github.com/hvidbergm)
 
 ### Machine Learning & Deep Learning
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/hvidbergm)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/hvidbergm)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=flat)](https://github.com/hvidbergm)
+[![OpenAI](https://img.shields.io/badge/openai-black?style=for-the-badge&logo=openai)](https://github.com/hvidbergm)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/hvidbergm)
 [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/hvidbergm)
 [![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=OpenCV)](https://github.com/hvidbergm)
@@ -40,12 +43,16 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap)](https://github.com/hvidbergm)
 
 ### Business Intelligence
-[![PowerBI](https://img.shields.io/badge/powerbi-black?style=for-the-badge&logo=powerbi)](https://github.com/hvidbergm)
+[![PowerBI](https://img.shields.io/badge/power_bi-black?style=for-the-badge&logo=power_bi)](https://github.com/hvidbergm)
 [![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=Tableau)](https://github.com/hvidbergm)
 
 ### Cloud
-[![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/hvidbergm)
-[![Databrikcs](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](https://github.com/hvidbergm)
+[![Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=azure)](https://github.com/hvidbergm)
+[![Databrikcs](https://img.shields.io/badge/databricks-black?style=for-the-badge&logo=databricks)](https://github.com/hvidbergm)
+
+### Automation
+[![Playwright](https://img.shields.io/badge/playwright-black?style=for-the-badge&logo=playwright)](https://github.com/hvidbergm)
+[![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)](https://github.com/hvidbergm)
 
 ### Design
 [![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)](https://github.com/hvidbergm)
