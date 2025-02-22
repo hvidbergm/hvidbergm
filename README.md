@@ -3,7 +3,7 @@
 <p>
     <b>I'm Mads! 👱‍♂️</b><br>        
     > I'm a data nerd enthusiatic about product management 💻<br>
-    > I'm driven by building great products - not by the use of tool or methodology!<br><br>
+    > I'm driven by building great products!<br><br>
 </p>
 
 <b>Some facts about me:</b><br>
